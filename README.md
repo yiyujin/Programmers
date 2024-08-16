@@ -1,6 +1,6 @@
 # Programmers
 
-![Image] ("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZjc2lnbzN6NHNwY3NpYndzaWwwdGcxeTVpbnYwM3V1Y3JzeWYxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.webp")
+![Image] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R6bms5eDN1dTlpM3hnZ2U2dTk5Mmd5MzhxZHd6OGQ5M3FzcDJ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp)
 
 ## About
 An intensive track for a web developer wanna-be
